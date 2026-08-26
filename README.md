@@ -8,6 +8,7 @@ here is the all problem solving by  my leetcode problem
 | ------- |
 | [0001-two-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kpuja7462/Leetcode_problem/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kpuja7462/Leetcode_problem/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
