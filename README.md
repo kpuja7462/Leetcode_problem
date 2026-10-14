@@ -7,6 +7,7 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpuja7462/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kpuja7462/Leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0018-4sum) |
@@ -63,9 +64,14 @@ here is the all problem solving by  my leetcode problem
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpuja7462/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kpuja7462/Leetcode_problem/tree/master/0179-largest-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpuja7462/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
