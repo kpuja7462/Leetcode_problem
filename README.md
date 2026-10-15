@@ -42,6 +42,7 @@ here is the all problem solving by  my leetcode problem
 | [0007-reverse-integer](https://github.com/kpuja7462/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kpuja7462/Leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kpuja7462/Leetcode_problem/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0029-divide-two-integers) |
 ## Trie
 |  |
 | ------- |
@@ -74,4 +75,8 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kpuja7462/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
