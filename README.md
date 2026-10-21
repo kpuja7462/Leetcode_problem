@@ -18,6 +18,7 @@ here is the all problem solving by  my leetcode problem
 | [0035-search-insert-position](https://github.com/kpuja7462/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kpuja7462/Leetcode_problem/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,20 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
