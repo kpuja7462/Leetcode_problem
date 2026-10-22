@@ -16,6 +16,7 @@ here is the all problem solving by  my leetcode problem
 | [0033-search-in-rotated-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kpuja7462/Leetcode_problem/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/kpuja7462/Leetcode_problem/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kpuja7462/Leetcode_problem/tree/master/0179-largest-number) |
 | [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
@@ -26,6 +27,7 @@ here is the all problem solving by  my leetcode problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/kpuja7462/Leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kpuja7462/Leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kpuja7462/Leetcode_problem/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/kpuja7462/Leetcode_problem/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |
