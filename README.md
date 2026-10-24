@@ -79,6 +79,7 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kpuja7462/Leetcode_problem/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/kpuja7462/Leetcode_problem/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,10 +88,12 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0029-divide-two-integers) |
+| [0397-integer-replacement](https://github.com/kpuja7462/Leetcode_problem/tree/master/0397-integer-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/kpuja7462/Leetcode_problem/tree/master/0120-triangle) |
+| [0397-integer-replacement](https://github.com/kpuja7462/Leetcode_problem/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -104,4 +107,8 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/kpuja7462/Leetcode_problem/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
