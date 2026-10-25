@@ -49,6 +49,7 @@ here is the all problem solving by  my leetcode problem
 | [0012-integer-to-roman](https://github.com/kpuja7462/Leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kpuja7462/Leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0371-sum-of-two-integers) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +89,7 @@ here is the all problem solving by  my leetcode problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/kpuja7462/Leetcode_problem/tree/master/0397-integer-replacement) |
 ## Dynamic Programming
 |  |
