@@ -20,6 +20,7 @@ here is the all problem solving by  my leetcode problem
 | [0088-merge-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/kpuja7462/Leetcode_problem/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/kpuja7462/Leetcode_problem/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/kpuja7462/Leetcode_problem/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ here is the all problem solving by  my leetcode problem
 | [0012-integer-to-roman](https://github.com/kpuja7462/Leetcode_problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kpuja7462/Leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/kpuja7462/Leetcode_problem/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/kpuja7462/Leetcode_problem/tree/master/0400-nth-digit) |
 ## Trie
@@ -63,6 +65,7 @@ here is the all problem solving by  my leetcode problem
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kpuja7462/Leetcode_problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kpuja7462/Leetcode_problem/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
